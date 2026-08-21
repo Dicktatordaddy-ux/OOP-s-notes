@@ -31,7 +31,7 @@ class largest{
 };
 int main (){
     largest l1;
-    l1.getData(-78,0,1);
+    l1.getData(-99,0,99);
     l1.large();
     return 0;
 }
